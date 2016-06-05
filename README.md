@@ -4,6 +4,8 @@
 
 A Syntax Theme inspired by [Firewatch](http://www.firewatchgame.com/). Wallpaper available from the [Campo Santo blog](http://blog.camposanto.com/post/138965082204/firewatch-launch-wallpaper-when-we-redid-the).
 
+You can find a green version of this theme [here](https://atom.io/themes/firewatch-green-syntax).
+
 ## Install
 
 ```
